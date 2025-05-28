@@ -20,4 +20,9 @@ sui client publish --gas-budget 100000000
 
 ## 🧪 Testing
 
-Add test cases to ensure smart contract reliability.
+
+
+**Submitted by:**  
+Name: Blessing Farai Muneri
+Email:cbdc@mcbsresbank.com
+GitHub:CBMSA https://github.com/your-username/sui-nft-lend
